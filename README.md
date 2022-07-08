@@ -2,7 +2,7 @@
 <h3>Created for Thapa Technical Codefest</h3>
 <h3>The Online Education Website </h3>
 
-# Developers
+## Developers
 
 [Ebrahim Ghantiwala](https://github.com/EbrG786)
 
