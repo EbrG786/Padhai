@@ -2,9 +2,9 @@
 <h3>Created for Thapa Technical Codefest</h3>
 <h3>The Online Education Website </h3>
 <hr>
-#Developers
-<a href="https://github.com/EbrG786">Ebrahim Ghantiwala</a>
-<a href="https://github.com/samx03">Sameer Bakshi</a>
+#Developers<br>
+<a href="https://github.com/EbrG786"><h1>Ebrahim Ghantiwala</h1></a><br>
+<a href="https://github.com/samx03"><h1>Sameer Bakshi</h1></a><br>
 <hr>
 <h2>Preview:</h2>
 <img src='hmp.PNG'>
