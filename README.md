@@ -4,7 +4,7 @@
 
 ## Developers
 
-<h1>[Ebrahim Ghantiwala](https://github.com/EbrG786)</h1>
+[Ebrahim Ghantiwala](https://github.com/EbrG786)
 
 [Sameer Bakshi](https://github.com/samx03)
 
