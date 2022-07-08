@@ -9,7 +9,7 @@
 [Sameer Bakshi](https://github.com/samx03)
 
 <hr>
-## Visit our website 
+# Visit our website 
 
 [Padhai](https://padhaii.netlify.app/)
 
