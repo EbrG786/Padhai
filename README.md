@@ -3,8 +3,10 @@
 <h3>The Online Education Website </h3>
 <hr>
 #Developers<br>
-<a href="https://github.com/EbrG786"><h1>Ebrahim Ghantiwala</h1></a><br>
-<a href="https://github.com/samx03"><h1>Sameer Bakshi</h1></a><br>
+
+[Ebrahim Ghantiwala](https://github.com/EbrG786)
+[Sameer Bakshi](https://github.com/samx03)
+
 <hr>
 <h2>Preview:</h2>
 <img src='hmp.PNG'>
