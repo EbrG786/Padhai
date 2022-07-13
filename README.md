@@ -14,6 +14,11 @@
 [Padhai](https://padhaii.netlify.app/)
 
 <hr>
+<h1>UI created through Figma:<h1>
+
+[Padhai](https://www.figma.com/file/R5INuJRSCW9hM4rpMtPOdQ/PADHAI?node-id=0%3A1)
+
+<hr>
 <h2>Preview:</h2>
 <img src='hmp.PNG'>
 <img src='crs.PNG'>
@@ -26,6 +31,7 @@
 <li>React</li>
 <li>Chakra UI</li>
 <li>React Reveal</li>
+<li>Figma</li>
 <li>And more..</li>
 </ul>
 <hr>
